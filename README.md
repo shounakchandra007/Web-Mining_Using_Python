@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="Python_Logo.png" alt="Logo" width="500" height="400">
+    <img src="Python_Logo.png" alt="Logo" width="601" height="203">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
