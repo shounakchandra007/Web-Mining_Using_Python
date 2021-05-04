@@ -24,7 +24,7 @@
 * [Python](https://www.python.org/)
 
 <!-- GETTING STARTED -->
-## Getting Started ☢☢
+## About Project ☢☢
 
 This is a perfect example of web mining project. After fetching the news from a news website link(Inshorts). It will only display the main headlines. And it will also calculate the sentiment of the news headline. It will also create a wordcloud image based on the news headlines.
 
@@ -34,6 +34,18 @@ This is a perfect example of web mining project. After fetching the news from a 
 * bs4
   ```sh
   pip install bs4
+  ```
+* requests 2.25.1 
+  ```sh
+  pip install requests
+  ```
+* wordcloud 1.8.1 
+  ```sh
+  pip install wordcloud
+  ```
+* textblob 0.15.3 
+  ```sh
+  pip install textblob
   ```
 
 ### Installation ✔✔
